@@ -9,6 +9,7 @@ AiPC — это программа‑ассистент, которая позв
 ❗Антивирусы могут жаловаться на инсталлер программы или саму программу, потому что программа не подписана цифровой подписью, если вы хотите убедиться что вирусов в программе нету, то вы можетеп проверить её исходный код
 Автор программы не несёт ответственности за возможные последствия запуска сгенерированного кода.
 Получить Api ключ Gemini можно перейдя на официальный сайт https://ai.google.dev/gemini-api/docs и нажав Получить ключ, после мы нажимаем create key и называем наш ключ и копируем его
+
 English:
 AiPC is an assistant program that lets you control your computer using the Gemini neural network.
 You enter a query, the program sends it to Gemini, and receives the generated code.
