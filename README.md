@@ -9,6 +9,7 @@ AiPC — это программа‑ассистент, которая позв
 ❗Антивирусы могут жаловаться на инсталлер программы или саму программу, потому что программа не подписана цифровой подписью, если вы хотите убедиться что вирусов в программе нету, то вы можетеп проверить её исходный код
 Автор программы не несёт ответственности за возможные последствия запуска сгенерированного кода.
 Получить Api ключ Gemini можно перейдя на официальный сайт https://ai.google.dev/gemini-api/docs и нажав Получить ключ, после мы нажимаем create key и называем наш ключ и копируем его
+Чтобы выполнять python код нужно установить python с официального сайта, я использую 3.11, но вроде можно любой
 
 English:
 AiPC is an assistant program that lets you control your computer using the Gemini neural network.
@@ -23,3 +24,4 @@ The program requires a Gemini API key, which can be obtained from the official G
 
 The program's author is not responsible for any consequences of running the generated code.
 You can get the Gemini API key by going to the official website https://ai.google.dev/gemini-api/docs and clicking Get key, then we click create key and name our key and copy it
+To execute python code you need to install python from the official website, I use 3.11, but it seems like you can use any
